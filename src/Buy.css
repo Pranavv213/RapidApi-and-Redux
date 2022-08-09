@@ -1,0 +1,17 @@
+.Main{
+    display:flex;
+    flex-direction:column;
+    
+}
+.search{
+    display:flex;
+}
+input{
+    width:75%;
+}
+.movie{
+    display:flex;
+    flex-wrap: wrap;
+   justify-content: center;
+    
+}

@@ -1,0 +1,27 @@
+.Main{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    
+}
+.content{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+img{
+    width:15em;
+    height:20em;
+    transition:0.7s;
+    border:5px solid 
+}
+img:hover{
+    transform:translateY(-30px);
+    width:15em;
+    height:20em;
+    
+}
+button{
+    width:15em;
+}
